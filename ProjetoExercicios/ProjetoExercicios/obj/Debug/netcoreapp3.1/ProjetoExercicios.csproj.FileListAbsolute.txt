@@ -1,0 +1,13 @@
+C:\Users\alant\OneDrive\Documentos\Scripts\C#\Exercicio\ProjetoExercicios\ProjetoExercicios\bin\Debug\netcoreapp3.1\ProjetoExercicios.exe
+C:\Users\alant\OneDrive\Documentos\Scripts\C#\Exercicio\ProjetoExercicios\ProjetoExercicios\bin\Debug\netcoreapp3.1\ProjetoExercicios.deps.json
+C:\Users\alant\OneDrive\Documentos\Scripts\C#\Exercicio\ProjetoExercicios\ProjetoExercicios\bin\Debug\netcoreapp3.1\ProjetoExercicios.runtimeconfig.json
+C:\Users\alant\OneDrive\Documentos\Scripts\C#\Exercicio\ProjetoExercicios\ProjetoExercicios\bin\Debug\netcoreapp3.1\ProjetoExercicios.runtimeconfig.dev.json
+C:\Users\alant\OneDrive\Documentos\Scripts\C#\Exercicio\ProjetoExercicios\ProjetoExercicios\bin\Debug\netcoreapp3.1\ProjetoExercicios.dll
+C:\Users\alant\OneDrive\Documentos\Scripts\C#\Exercicio\ProjetoExercicios\ProjetoExercicios\bin\Debug\netcoreapp3.1\ProjetoExercicios.pdb
+C:\Users\alant\OneDrive\Documentos\Scripts\C#\Exercicio\ProjetoExercicios\ProjetoExercicios\obj\Debug\netcoreapp3.1\ProjetoExercicios.csprojAssemblyReference.cache
+C:\Users\alant\OneDrive\Documentos\Scripts\C#\Exercicio\ProjetoExercicios\ProjetoExercicios\obj\Debug\netcoreapp3.1\ProjetoExercicios.AssemblyInfoInputs.cache
+C:\Users\alant\OneDrive\Documentos\Scripts\C#\Exercicio\ProjetoExercicios\ProjetoExercicios\obj\Debug\netcoreapp3.1\ProjetoExercicios.AssemblyInfo.cs
+C:\Users\alant\OneDrive\Documentos\Scripts\C#\Exercicio\ProjetoExercicios\ProjetoExercicios\obj\Debug\netcoreapp3.1\ProjetoExercicios.csproj.CoreCompileInputs.cache
+C:\Users\alant\OneDrive\Documentos\Scripts\C#\Exercicio\ProjetoExercicios\ProjetoExercicios\obj\Debug\netcoreapp3.1\ProjetoExercicios.dll
+C:\Users\alant\OneDrive\Documentos\Scripts\C#\Exercicio\ProjetoExercicios\ProjetoExercicios\obj\Debug\netcoreapp3.1\ProjetoExercicios.pdb
+C:\Users\alant\OneDrive\Documentos\Scripts\C#\Exercicio\ProjetoExercicios\ProjetoExercicios\obj\Debug\netcoreapp3.1\ProjetoExercicios.genruntimeconfig.cache
